@@ -1,6 +1,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: hilanp.github.io/portfolio-mes/lib
+-- import: fastn-community.github.io/footer
 
 -- lib.page:
 
@@ -20,6 +21,24 @@ link-1: https://drive.google.com/file/d/1LS6AGyrFORBH_hLoo3Cg5vtYYojL0GGL/view?u
 cta-button-2: Contact
 link-2: https://linktr.ee/hilan004
 cover: $assets.files.assets/90795  4PP  (2).JPG
+
+-- footer.sitemap-footer:
+footer-links: $footer.sitemap.toc
+copyright: Copyright © 2023 - [FifthTry.com](https://www.fifthtry.com/)
+
+discord-logo: $assets.files.assets.discord.svg
+discord-url: https://discord.gg/bucrdvptYd
+instagram-logo: $assets.files.assets.instagram.svg
+instagram-url: index.html
+telegram-logo: $assets.files.assets.telegram.svg
+telegram-url: index.html
+site-name: fastn
+site-url: index.html
+site-logo: $assets.files.assets.dummy-site-logo.png
+logo-height: 32
+sign-up-txt: Subscribe Us
+sign-up-link: index.html
+subscription: true
 
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
