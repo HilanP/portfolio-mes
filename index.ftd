@@ -11,7 +11,7 @@ cta-text-1: Home
 cta-text-2: About
 cta-text-3: Resume
 cta-text-1-url: index.html
-cta-text-2-url: new.html
+cta-text-2-url: index.html
 cta-text-3-url: index.html
 
 -- hero-1.hero-1: I'm Hilan
